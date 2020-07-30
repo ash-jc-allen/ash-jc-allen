@@ -1,7 +1,7 @@
 ### Hi, I'm Ash Allen!
 
 ## I'm a freelance Laravel web developer from Preston, UK
-- 💥 I build systems and websites for small, local business using Laravel.
+- 💥 I build systems and websites for small, local businesses using Laravel.
 - 🖥 I contribute to open-source projects.
 - 🎉 I currently have 3 Laravel packages that are being used in commercial systems.
 - ⚡ I'm open to collaborating on other Laravel projects.

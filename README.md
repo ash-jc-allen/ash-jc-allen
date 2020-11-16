@@ -1,9 +1,9 @@
 ### Hi, I'm Ash Allen!
 
 ## I'm a freelance Laravel web developer from Preston, UK
-- 💥 I build systems and websites for small, local businesses using Laravel.
-- 🖥 I contribute to open-source projects.
-- 🎉 I currently have 3 Laravel packages that are being used in commercial systems.
+- 💥 I build systems and websites for small businesses using Laravel.
+- 🖥 I have contributed to [Laravel](https://github.com/laravel/framework/pull/35160) and other open-source projects.
+- 🎉 I currently have 4 Laravel packages that are being used in commercial systems.
 - ⚡ I'm open to collaborating on other Laravel projects.
 - 🥅 2020 Goal: Contribute to more open-source projects.
 
@@ -41,15 +41,16 @@
 - [Laravel Exchange Rates](https://github.com/ash-jc-allen/laravel-exchange-rates)
 - [Laravel Executor](https://github.com/ash-jc-allen/laravel-executor)
 - [Short URL](https://github.com/ash-jc-allen/short-url)
+- [Laravel Config Validator](https://github.com/ash-jc-allen/laravel-config-validator)
 
 ---
 
 ### 📘 Latest Blog Posts
+- [Top 8 Free and Paid Resources for Learning Laravel](https://ashallendesign.co.uk/blog/top-8-free-and-paid-resources-for-learning-laravel)
+- [6 Quick & Easy Ways to Speed Up Your Laravel Website ](https://ashallendesign.co.uk/blog/6-quick-and-easy-ways-to-speed-up-your-laravel-website)
+- [Should I Use Wordpress for My Website?](https://ashallendesign.co.uk/blog/should-i-use-wordpress-for-my-website)
 - [5 Ways You Can Make More Money From Your Website](https://ashallendesign.co.uk/blog/5-ways-to-make-money-from-your-website)
 - [How To Create Professional Graphics For Your Website, Blog and Social Media Posts For Free](https://ashallendesign.co.uk/blog/professional-graphics-for-website-design-and-social-media)
-- [3 Reasons Why Your Business Should Have a Pay-Monthly Website](https://ashallendesign.co.uk/blog/3-ways-pay-monthly-websites-can-help-your-business-grow)
-- [How To Check In 30 Seconds If Your Password Has Been Leaked](https://ashallendesign.co.uk/blog/how-to-check-if-password-is-leaked)
-- [Quick Tip: Improve Your Security For Free With Avast Antivirus](https://ashallendesign.co.uk/blog/improve-security-with-avast-antivirus)
 
 ---
 

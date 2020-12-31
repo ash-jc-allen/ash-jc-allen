@@ -3,7 +3,7 @@
 ## I'm a freelance Laravel web developer from Preston, UK
 - 💥 I build systems and websites for small businesses using Laravel.
 - 🖥 I have contributed to [Laravel](https://github.com/laravel/framework/pull/35160) and other open-source projects.
-- 🎉 I currently have 4 Laravel packages that are being used in commercial systems.
+- 🎉 I currently have 5 Laravel packages that are being used in commercial systems.
 - ⚡ I'm open to collaborating on other Laravel projects.
 - 🥅 2020 Goal: Contribute to more open-source projects.
 
@@ -42,6 +42,7 @@
 - [Laravel Executor](https://github.com/ash-jc-allen/laravel-executor)
 - [Short URL](https://github.com/ash-jc-allen/short-url)
 - [Laravel Config Validator](https://github.com/ash-jc-allen/laravel-config-validator)
+- [Laravel Mailbox Layer](https://github.com/ash-jc-allen/laravel-mailboxlayer)
 
 ---
 

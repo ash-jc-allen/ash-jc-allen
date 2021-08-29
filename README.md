@@ -1,3 +1,5 @@
+![Ash Allen - Laravel web developer](https://ashallendesign.co.uk/images/custom/github-profile-rounded.png)
+
 ### Hey, I'm Ash Allen! 👋
 
 ## I'm a freelance Laravel web developer from Preston, UK

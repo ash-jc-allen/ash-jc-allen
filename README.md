@@ -1,24 +1,18 @@
-### Hi, I'm Ash Allen!
+### Hey, I'm Ash Allen! 👋
 
 ## I'm a freelance Laravel web developer from Preston, UK
 - 💥 I build systems and websites for small businesses using Laravel.
-- 🖥 I have contributed to [Laravel](https://github.com/laravel/framework/pull/35160) and other open-source projects.
+- 🖥 I have contributed to [Laravel](https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Aash-jc-allen+) and other open-source projects.
 - 🎉 I currently have 5 Laravel packages that are being used in commercial systems.
+- ✍️ I write about Laravel, PHP and other web developments topics on the [Ash Allen Design](https://ashallendesign.co.uk/blog) blog.
+- ✨ I wrote the FREE 70-page ebook called [The Clean Coder's Guide to Laravel](https://ashallendesign.co.uk/blog/the-clean-coders-guide-to-laravel-free-70-page-pdf).
 - ⚡ I'm open to collaborating on other Laravel projects.
-- 🥅 2020 Goal: Contribute to more open-source projects.
+- 🥅 2021 Goal: Contribute to more open-source projects.
 
 ### I Was Featured on Laravel News!
 - [Laravel Exchange Rates API Package](https://laravel-news.com/laravel-exchange-rates-api-package)
 - [Simplify Installing and Updating your App With Laravel Executor](https://laravel-news.com/laravel-executor-package)
-
-### Connect with me
-
-[<img align="left" alt="ashallendesign.co.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ash Allen Design | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Ash Allen Design | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ash Allen Design | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br>
+- [Short URL Package for Laravel Applications](https://laravel-news.com/short-url)
 
 ### Languages and Tools
 
@@ -46,12 +40,12 @@
 
 ---
 
-### 📘 Latest Blog Posts
-- [Top 8 Free and Paid Resources for Learning Laravel](https://ashallendesign.co.uk/blog/top-8-free-and-paid-resources-for-learning-laravel)
-- [6 Quick & Easy Ways to Speed Up Your Laravel Website ](https://ashallendesign.co.uk/blog/6-quick-and-easy-ways-to-speed-up-your-laravel-website)
-- [Should I Use Wordpress for My Website?](https://ashallendesign.co.uk/blog/should-i-use-wordpress-for-my-website)
-- [5 Ways You Can Make More Money From Your Website](https://ashallendesign.co.uk/blog/5-ways-to-make-money-from-your-website)
-- [How To Create Professional Graphics For Your Website, Blog and Social Media Posts For Free](https://ashallendesign.co.uk/blog/professional-graphics-for-website-design-and-social-media)
+### 📘 Some of My Blog Posts
+- [Cleaning Up Laravel Controllers](https://ashallendesign.co.uk/blog/cleaning-up-laravel-controllers)
+- [Interfaces vs Abstract Classes in PHP](https://ashallendesign.co.uk/blog/interfaces-vs-abstract-classes-in-php)
+- [Using Interfaces to Write Better PHP Code](https://ashallendesign.co.uk/blog/using-interfaces-to-write-better-php-code)
+- [Using the Strategy Pattern in Laravel](https://ashallendesign.co.uk/blog/using-the-bridge-pattern-in-laravel)
+- [How to Make Your Laravel App More Testable](https://ashallendesign.co.uk/blog/how-to-make-your-laravel-app-more-testable)
 
 ---
 

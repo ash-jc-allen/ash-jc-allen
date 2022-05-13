@@ -46,7 +46,7 @@
 - [Short URL](https://github.com/ash-jc-allen/short-url)
 - [Laravel Config Validator](https://github.com/ash-jc-allen/laravel-config-validator)
 - [Laravel Mailbox Layer](https://github.com/ash-jc-allen/laravel-mailboxlayer)
-- [Favicon Fetcher](https://githuv.com/ash-jc-allen/favicon-fetcher)
+- [Favicon Fetcher](https://github.com/ash-jc-allen/favicon-fetcher)
 
 ---
 

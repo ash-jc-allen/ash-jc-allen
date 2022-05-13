@@ -4,12 +4,19 @@
 
 ## I'm a freelance Laravel web developer from Preston, UK
 - 💥 I build systems and websites for small businesses using Laravel.
+- 📚 I have a blog that focuses on helping other developers learn more about Laravel, PHP and web development.
 - 🖥 I have contributed to [Laravel](https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Aash-jc-allen+) and other open-source projects.
 - 🎉 I currently have 5 Laravel packages that are being used in commercial systems.
 - ✍️ I write about Laravel, PHP and other web developments topics on the [Ash Allen Design](https://ashallendesign.co.uk/blog) blog.
 - ✨ I wrote the FREE 70-page ebook called [The Clean Coder's Guide to Laravel](https://ashallendesign.co.uk/blog/the-clean-coders-guide-to-laravel-free-70-page-pdf).
 - ⚡ I'm open to collaborating on other Laravel projects.
-- 🥅 2021 Goal: Contribute to more open-source projects.
+- 🥅 2022 Goal: Contribute to more open-source projects and write a new e-book.
+
+### I Write Guest Blog Posts
+- Laravel News - [How to get a Websites Favicons in Laravel](https://laravel-news.com/favicon-fetcher)
+- Honeybadger - [An Introduction to Caching in Laravel](https://www.honeybadger.io/blog/caching-in-laravel/)
+- Honeybadger - [A Guide To Error & Uptime Monitoring In Laravel Using Honeybadger](https://www.honeybadger.io/blog/error-and-uptime-monitoring-in-laravel-using-honeybadger/)
+- Honeybadger - [A Complete Guide To Managing User Permissions In Laravel Apps](https://www.honeybadger.io/blog/user-roles-permissions-in-laravel/)
 
 ### I Was Featured on Laravel News!
 - [Laravel Exchange Rates API Package](https://laravel-news.com/laravel-exchange-rates-api-package)
@@ -39,6 +46,7 @@
 - [Short URL](https://github.com/ash-jc-allen/short-url)
 - [Laravel Config Validator](https://github.com/ash-jc-allen/laravel-config-validator)
 - [Laravel Mailbox Layer](https://github.com/ash-jc-allen/laravel-mailboxlayer)
+- [Favicon Fetcher](https://githuv.com/ash-jc-allen/favicon-fetcher)
 
 ---
 
@@ -57,3 +65,4 @@
 [facebook]: https://www.facebook.com/ashallendesignuk/
 [instagram]: https://www.instagram.com/ashallendesign_uk/
 [linkedin]: https://www.linkedin.com/in/ashleyjcallen/
+[twitter]: https://twitter.com/AshAllenDesign

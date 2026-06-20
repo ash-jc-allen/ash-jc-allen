@@ -1,19 +1,22 @@
 ![Ash Allen - Laravel web developer](https://ashallendesign.co.uk/images/custom/github-profile-rounded.png)
 
+[![Laravel Contributor](https://badge.laravel.cloud/contributor/ash-jc-allen)](https://badge.laravel.cloud/contributor/ash-jc-allen/contributions)
+
 ### Hey, I'm Ash Allen! 👋
 
 ## I'm a freelance Laravel web developer from Preston, UK
 - 💥 I build systems and websites for small businesses using Laravel.
-- ✍️ I write about Laravel, PHP and other web developments topics on the [Ash Allen Design](https://ashallendesign.co.uk/blog) blog.
+- ✍️ I write about Laravel, PHP and other web development topics on the [Ash Allen Design](https://ashallendesign.co.uk/blog) blog.
 - 🖥 I have contributed to [Laravel](https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Aash-jc-allen+) and other open-source projects.
 - 🎉 I currently maintain several Laravel packages that are being used in commercial systems and have over 1.2 million downloads.
 - ⚡ I'm open to collaborating on other Laravel projects.
-- 🥅 2024 Goal: Contribute to more open-source projects and publish my new e-book: The Web Dev's Guide to Freelancing.
+- 🥅 2026 Goal: Contribute to more open-source projects.
 
 ### I've Written Books:
 
 - 📚 [Battle Ready Laravel](https://battle-ready-laravel.com) - The ultimate guide to auditing, testing, fixing, and improving your Laravel apps
 - 📚 [Consuming APIs in Laravel](https://consuming-apis-in-laravel.com) - Build robust and powerful API integrations for your Laravel projects
+- 📚 [The Web Dev's Guide to Freelancing](https://web-dev-freelancing.com) -  Learn proven strategies, tips, and tricks you can use to launch your freelance web development career and build a successful business from scratch.
 - 📚 [The Clean Coder's Guide to Laravel](https://ashallendesign.co.uk/blog/the-clean-coders-guide-to-laravel-free-70-page-pdf) - FREE 70-page ebook with tips and tricks for your Laravel apps
 
 ### I've Written Guest Blog Posts for:
@@ -47,6 +50,7 @@
 - [Favicon Fetcher](https://github.com/ash-jc-allen/favicon-fetcher)
 - [Laravel Config Validator](https://github.com/ash-jc-allen/laravel-config-validator)
 - [Redactable Models for Laravel](https://github.com/ash-jc-allen/redactable-models)
+- [Email Utilities for Laravel](https://github.com/ash-jc-allen/email-utilities)
 - [Laravel Executor](https://github.com/ash-jc-allen/laravel-executor) (archived)
 - [Laravel Mailbox Layer](https://github.com/ash-jc-allen/laravel-mailboxlayer) (archived)
 
